@@ -1,6 +1,6 @@
 ## Peer Review Guidelines
 
-You will be assigned to review the project drafts of two of your peers. You will have one week to provide them with feedback (via a private group in Slack that we will set up for you).
+You will be assigned to review the project drafts of two of your peers. You will have one week to provide them with feedback. You should upload your feedback as a Markdown (or plain text) document to the "reviews" folder of DAT4-students. If your last name is Smith and you are reviewing Jones, you should name your file `smith_reviews_jones.md`.
 
 Expectations:
 * Read everything they wrote!
@@ -14,7 +14,6 @@ Your feedback would ideally consist of:
 * Comments about things you think could be improved
 * Questions about things you don't understand
 * Comments about their code
-* Links to resources or code snippets that might be useful to them
 * Suggestions for next steps
 * Guiding principle: Give feedback that would be helpful to you if it was your project!
 
