@@ -4,7 +4,12 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Instructor:** [Rob Hall](https://generalassemb.ly/instructors/rob-hall/1864)
 
-**EiRs:** Justin Breucop, Devin Brady
+**TA's:** Justin Breucop, Devin Brady
+
+#### Slack
+
+Once you've received the invitation to Slack, please log in and **add your picture**!
+Slack will be the primary way we communicate with each other.
 
 ### Course Schedule
 
@@ -26,6 +31,8 @@ Week | Monday | Wednesday
 12 | 2/29: Presentations 1 | 3/2: Presentations 2
 
 _syllabus last updated: 11/29/2015_
+
+### [Course Project](project/README.md)
 
 ### Submission Forms
 * [Feedback form](http://bit.ly/dat7feedback)
@@ -109,7 +116,3 @@ Rob        | Tues & Thurs, all day   | slack (quickest response) or hangouts by 
 
 Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
 -->
-
-#### Slack
-
-You've all been invited to use Slack for chat during class and the day. Please consider this the primary way to contact other students. The TAs will be in Slack during class to handle questions. All instructors will be available on Slack during office hours (listed above).
