@@ -11,7 +11,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 Once you've received the invitation to Slack, please log in and **add your picture**!
 Slack will be the primary way we communicate with each other.
 
-**[Installation and Setup Checklist](other/setup_checklist.md)
+**[Installation and Setup Checklist](other/setup_checklist.md)**
 
 **[Course Project Info](project/README.md)**
 
