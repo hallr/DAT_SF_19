@@ -13,9 +13,8 @@ Slack will be the primary way we communicate with each other.
 
 ### Course Schedule
 
-** [Course Project Info](project/README.md)
-
-** [Course Project Examples](project/project-examples.md)
+**[Course Project Info](project/README.md**
+**[Course Project Examples](project/project-examples.md)**
 
 Monday | Wednesday
 --- | ---
