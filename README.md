@@ -13,30 +13,28 @@ Slack will be the primary way we communicate with each other.
 
 ### Course Schedule
 
+### [Course Project Info](project/README.md)
+
 Monday | Wednesday
 --- | ---
-11/30: [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Command Line and Version Control](#class-2-command-line-and-version-control)
-12/7: Intro to Machine Learning with KNN | 12/9: Regression & Regularization
-12/14: Web APIs & Pandas | 12/16: Decision Trees for Classification & Regression
+11/30: Course Intro, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: Version Control, Intro to Python
+12/7: Data Reading and Cleaning | 12/9: Data Exploration
+12/14: Intro to Machine Learning, KNN | 12/16: Scikit-learn and Model Evaluation
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
-1/4: TBD | 1/6: TBD
-1/11: TBD | 1/13: TBD
-1/18: MLK Day **No Class** | 1/20: TBD
-1/25: TBD | 1/27: TBD
-2/1: TBD | 2/3: TBD
-2/8: TBD | 2/10: TBD
-2/15: **No Class** (President's Day) | 2/17: TBD
-2/22: TBD | 2/24: TBD |
+1/4: Linear Regression | 1/6: Logistic Regression
+1/11: Naive Bayes | 1/13: Advanced Model Evaluation
+1/18: **No Class** (MLK Day) | 1/20: Clustering
+1/25: Decision Trees | 1/27: Ensembling Techniques
+2/1: Dimensionality Reduction | 2/3: Support Vector Machines
+2/8: Recommender Systems | 2/10: SQL, Databases
+2/15: **No Class** (President's Day) | 2/17: Guest Speaker or Advanced Material (TBD)
+2/22: Guest Speaker or Advanced Material (TBD) | 2/24: Course Review |
 2/29: **Final Project Presentations** | 3/2: **Final Project Presentations**
 
 _syllabus last updated: 11/29/2015_
 
-### [Course Project](project/README.md)
 
-### Submission Forms
-* [Feedback form](http://bit.ly/dat7feedback)
-* [Homework and project submissions](http://bit.ly/dat7homework)
 
 -----
 
