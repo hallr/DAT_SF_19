@@ -4,6 +4,13 @@ This is a checklist to confirm that your laptop is set up properly for DAT19. If
 
 Please post a message in the "setupchecklist" channel in Slack once you have walked through the entire checklist. That way, we will know whether or not we need to follow up with you.
 
+### Installation and Setup
+
+### Installation and Setup
+* Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
+* Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
+* Once you receive an email invitation from [Slack](https://slack.com/), join our team and add your photo!
+
 ### GitHub
 * Log into your GitHub account, and "star" the DAT19 repository (the one you are looking at right now) by clicking the Star button in the upper right corner of the screen.
 
@@ -20,14 +27,9 @@ Please post a message in the "setupchecklist" channel in Slack once you have wal
 ### Python
 * While still at the command line:
     * Type `conda list` (if you choose not to use Anaconda, this will generate an error)
-    * Type `pip install textblob`
     * Type `python` to open the Python interpreter
 * While in the Python interpreter:
-    * Look at the Python version number. It should start with 2.7. If your version number starts with 3, that's fine as long as you are aware of the differences between Python 2 and 3.
-    * Type `import textblob`
+    * Look at the Python version number. It should start with 2.7.
     * Type `import pandas`
     * Type `exit()` to exit the interpreter. You can now close the command line application.
-* Open Spyder (if you can't find Spyder, look for the Anaconda Launcher application)
-    * In the console (probably on the right side of the screen), type `import textblob`
-        * If this worked from the interpreter but not in Spyder, and you're using a Mac, try opening the PYTHONPATH manager and adding a path to where textblob was installed (such as `/Users/yourname/anaconda/lib/python2.7/site-packages/`). Then, restart Spyder.
-    * Type `import pandas`
+
