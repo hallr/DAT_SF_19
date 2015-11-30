@@ -44,9 +44,11 @@ If it's not possible or practical to include your entire dataset, you should lin
 ## Milestones
 
 
-### September 30 (Mandatory): Question and Data Set
+### December 16: Question and Data Set, Elevator Pitch
 
 What is the question you hope to answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose this topic?
+
+Plan to give a very brief (< 90 seconds) "elevator pitch" of your project in class.
 
 Example:
 
@@ -56,9 +58,9 @@ Example:
 * I chose this topic because I'm fascinated by the history of the Titanic.
 
 
-### October 26 (Mandatory): First Draft Due
+### January 20: First Draft Due
 
-Zip up all files relevant to your project, and email them to Sinan. Your peers and instructors will provide feedback, according to [these guidelines](peer_review.md).
+Zip up all files relevant to your project, and email them to Rob. Your peers and instructors will provide feedback, according to [these guidelines](peer_review.md).
 
 At a minimum, you should include:
 * Narrative of what you have done so far and what you are still planning to do, ideally in a format similar to the format of your final project paper
@@ -76,11 +78,11 @@ Tips for success:
 * If your reviewers can actually run your code on the provided data, they will be able to give you more useful feedback on your code. (It can be very hard to make useful code suggestions on code that can't be run!)
 
 
-### November 18 (Optional): Second Draft Due 
+### February 10 (Optional): Second Draft Due 
 
 If you would like additional feedback on your project, submit a revised version of your project. Your instructors will provide feedback. (There is no peer review for the second draft.)
 
 
-### November 31 and December 2: Presentation
+### February 29 and March 2: Presentations & Final Project Due
 
 Deliver your project presentation in class, and submit all required deliverables (paper, slides, code, data, and data dictionary).
