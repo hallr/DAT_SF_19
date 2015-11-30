@@ -10,7 +10,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 Week | Monday | Wednesday
 --- | --- | ---
- 1 | 11/30: Introduction to Data Science | 12/2: Version Control, Python Pt.1
+ 1 | 11/30: [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Command Line and Version Control](#class-2-command-line-and-version-control)
  2 | 12/7: Intro to Machine Learning with KNN | 12/9: Regression & Regularization
  3 | 12/14: Web APIs & Pandas | 12/16: Decision Trees for Classification & Regression
  N/A | 12/21: **No Class** | 12/23: **No Class**
@@ -27,6 +27,7 @@ Week | Monday | Wednesday
 
 _syllabus last updated: 11/29/2015_
 
+<!--
 ### Homework Schedule
 
 Please submit completed homework assignments by pushing them to your homework repo under your own userid and then telling us where to find your homework via the [homework submission form](http://goo.gl/forms/QBZBG4P3bm).
@@ -53,6 +54,7 @@ Matt       | Thursday, 6:00 - 7:00 PM | in person (at GA in "the concourse"), sl
 Rob        | Tues & Thurs, all day   | slack (quickest response) or hangouts by appointment
 
 Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
+-->
 
 #### Slack
 
