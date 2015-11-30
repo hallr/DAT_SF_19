@@ -13,13 +13,14 @@ Slack will be the primary way we communicate with each other.
 
 ### Course Schedule
 
-### [Course Project Info](project/README.md)
+**[Course Project Info](project/README.md)
+**[Course Project Examples](project/project-examples.md)
 
 Monday | Wednesday
 --- | ---
 11/30: Course Intro, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: Version Control, Intro to Python
 12/7: Data Reading and Cleaning | 12/9: Data Exploration
-12/14: Intro to Machine Learning, KNN | 12/16: Scikit-learn and Model Evaluation
+12/14: Intro to Machine Learning, KNN | 12/16: Scikit-learn and Model Evaluation <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
 1/4: Linear Regression | 1/6: Logistic Regression
@@ -28,8 +29,8 @@ Monday | Wednesday
 1/25: Decision Trees | 1/27: Ensembling Techniques
 2/1: Dimensionality Reduction | 2/3: Support Vector Machines
 2/8: Recommender Systems | 2/10: SQL, Databases
-2/15: **No Class** (President's Day) | 2/17: Guest Speaker or Advanced Material (TBD)
-2/22: Guest Speaker or Advanced Material (TBD) | 2/24: Course Review |
+2/15: **No Class** (President's Day) | 2/17: Advanced Topic or Guest Speaker
+2/22: Advanced Topic or Guest Speaker | 2/24: Course Review |
 2/29: **Final Project Presentations** | 3/2: **Final Project Presentations**
 
 _syllabus last updated: 11/29/2015_
@@ -41,9 +42,9 @@ _syllabus last updated: 11/29/2015_
 ### Class 1: Introduction to Data Science
 * Welcome from General Assembly staff
 * Course overview ([slides](slides/01_course_overview.pdf))
-* Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
+* Introduction to data science ([slides](slides/dat19_01_intro_to_data_science.pdf))
 * Discuss the [course project](project/README.md)
-* Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
+* [public data sources](project/public_data.md)
 * Wrap up: Slack tour, submission forms
 
 **Homework:**
@@ -58,7 +59,7 @@ _syllabus last updated: 11/29/2015_
 
 -----
 
-### Class 2: Command Line and Version Control
+### Class 2: Version Control & Python
 * Command line exercise ([code](code/02_command_line.md))
 * Git and GitHub ([slides](slides/02_git_github.pdf))
 * Intermediate command line
