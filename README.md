@@ -18,15 +18,15 @@ Monday | Wednesday
 11/30: [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Command Line and Version Control](#class-2-command-line-and-version-control)
 12/7: Intro to Machine Learning with KNN | 12/9: Regression & Regularization
 12/14: Web APIs & Pandas | 12/16: Decision Trees for Classification & Regression
-12/21: **No Class** - Holiday Break | 12/23: Holiday Break **No Class**
-12/28: Holiday Break **No Class** | 12/30: Holiday Break **No Class**
+12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
+12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
 1/4: TBD | 1/6: TBD
 1/11: TBD | 1/13: TBD
 1/18: MLK Day **No Class** | 1/20: TBD
 1/25: TBD | 1/27: TBD
 2/1: TBD | 2/3: TBD
 2/8: TBD | 2/10: TBD
-2/15: **No Class** - President's Day | 2/17: TBD
+2/15: **No Class** (President's Day) | 2/17: TBD
 2/22: TBD | 2/24: TBD |
 2/29: **Final Project Presentations** | 3/2: **Final Project Presentations**
 
