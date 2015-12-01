@@ -21,7 +21,7 @@ Slack will be the primary way we communicate with each other.
 
 Monday | Wednesday
 --- | ---
-11/30: Course Intro, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: Version Control, Intro to Python
+11/30: Course Overview, Introduction to Data Science | 12/2: Version Control, Intro to Python
 12/7: Data Reading and Cleaning | 12/9: Data Exploration
 12/14: Intro to Machine Learning, KNN | 12/16: Scikit-learn and Model Evaluation <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
