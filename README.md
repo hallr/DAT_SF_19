@@ -44,7 +44,7 @@ _syllabus last updated: 11/29/2015_
 
 ### Class 1: Introduction to Data Science
 * Welcome from General Assembly staff
-* Course overview
+* Course overview [slides](slides/01_course_intro.pdf)
 * Introduction to data science
 * Discuss the [course project](project/README.md)
 * [public data sources](project/public_data.md)
