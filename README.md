@@ -21,7 +21,7 @@ Slack will be the primary way we communicate with each other.
 
 Monday | Wednesday
 --- | ---
-11/30: Course Overview, Introduction to Data Science | 12/2: Version Control, Intro to Python
+11/30: Course Overview, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: Version Control, Intro to Python
 12/7: Data Reading and Cleaning | 12/9: Data Exploration
 12/14: Intro to Machine Learning, KNN | 12/16: Scikit-learn and Model Evaluation <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
@@ -44,11 +44,11 @@ _syllabus last updated: 11/29/2015_
 
 ### Class 1: Introduction to Data Science
 * Welcome from General Assembly staff
-* Course overview ([slides](slides/01_course_overview.pdf))
-* Introduction to data science ([slides](slides/dat19_01_intro_to_data_science.pdf))
+* Course overview
+* Introduction to data science
 * Discuss the [course project](project/README.md)
 * [public data sources](project/public_data.md)
-* Wrap up: Slack tour, submission forms
+
 
 **Homework:**
 * Work through GA's friendly [command line tutorial](http://generalassembly.github.io/prework/command-line/#/) using Terminal (Linux/Mac) or Git Bash (Windows), and then browse through this [command line reference](code/02_command_line.md).
