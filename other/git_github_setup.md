@@ -25,7 +25,9 @@
 
 3. Install the `subl` command: In this step, we will install a new command that will enable us to launch Sublime Text 2 from the command line. We will also set Sublime Text 2 as the default editor for git. The default text editor for git is the system default. So, unless you are comfortable working in vi (on OS X), we strongly recommend that you set up git to use Sublime Text 2.
   1. **STOP. We will do this together!** Copy/paste the following to your command line. This creates a symlink. Make sure it copies exactly and that you have not missed any characters!
+
   ```sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl```
+  
   2. Enter the password for your computer when prompted.
   3. Type `subl README.md`. Sublime should launch a new window with the markdown for the course schedule (remember you should be in the course repo). If this displays as expected, simply close Sublime Text.
 
