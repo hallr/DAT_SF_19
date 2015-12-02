@@ -46,7 +46,7 @@
   7. You should see your new repo on Github.
   8. Copy the HTTPS URL to clone the repo.
   9. Return to the Terminal / your command line.
-  10. **IMPORTANT** cd out of the DAT_SF_19 course repo! DO NOT clone your homework repo inside the class repo!
+  10. **IMPORTANT** cd out of the DAT_SF_19 course repo! **DO NOT clone your homework repo inside the class repo!**
   11. cd to where you want to have your work repo.
   12. Type `git clone` and paste the URL to your new personal work repo. Git will clone your new personal work repo from Github to your laptop.
 
@@ -59,5 +59,5 @@
   6. Switch back to your browser to view your work repo on Github and refresh the page. Do you see any files other than the README.md?
   7. Switch back to the command line and type `git push -u origin master`. What happens?
   8. Switch back to Github and refresh the page for your work repo. What do you see now?
-  
+
 
