@@ -4,7 +4,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Instructor:** [Rob Hall](https://generalassemb.ly/instructors/rob-hall/1864)
 
-**TA's:** Justin Breucop, Devin Brady
+**TA:** [Justin Breucop](https://www.linkedin.com/in/jbreucop)
 
 #### Slack
 
@@ -12,6 +12,8 @@ Once you've received the invitation to Slack, please log in and **add your pictu
 Slack will be the primary way we communicate with each other.
 
 **[Installation and Setup Checklist](other/setup_checklist.md)**
+
+**[Git and Github Setup](other/git_github_setup.md)**
 
 **[Course Project Info](project/README.md)**
 
