@@ -16,7 +16,7 @@
   1. Type `git config --list` to see your current git configuration settings. What is the `user.name` setting? What is the `user.email` setting? Next, we will configure git to use your github user name and email address.
   2. Type `git config --global user.name "YourFirstName YourLastName"` (including the quotes)
   3. Type `git config --global user.email "youremail@domain.com"` (use the email address associated with your GitHub account)
-  4. Type `git config --list` again. Those setting should be updated to match the config changes you just made.
+  4. Type `git config --list` again. Those setting should be updated to match the config changes you just made. Note that you can also check an specific setting by typing `git config --global` with no argument.
 
 2. Clone the course repo to your laptop:
   1. cd to the place where you want to copy the course repo. Your desktop is a great place for this while in the course, but any place where you can easily find it via the command line is fine. The following will create a folder called "DAT_SF_19" in the working directory of your local computer, and will copy the repository into that folder. (If you don't know what the working directory is, type `pwd`.)
@@ -40,15 +40,24 @@
   1. Leave the command line for a moment and return to your browser. You should already be logged in to your github account.
   2. Go to your profile. Click on the "Repositories" tab.
   3. Click on the "New" button.
-  4. Name your new repo `DAT_SF_19_work`.
+  4. Name your new repo `DAT_SF_19_Work`.
   5. Give it a description, such as "YourName's work repo for the DAT19 course at General Assembly San Francisco".
   6. Click the checkbox to "Initialize this repository with a README". You need at least one file in the repo to be able to clone it.
   7. You should see your new repo on Github.
   8. Copy the HTTPS URL to clone the repo.
   9. Return to the Terminal / your command line.
-  10. **IMPORTANT** Cd out of the DAT_SF_19 course repo! DO NOT clone your homework repo inside the class repo!
+  10. **IMPORTANT** cd out of the DAT_SF_19 course repo! DO NOT clone your homework repo inside the class repo!
   11. cd to where you want to have your work repo.
   12. Type `git clone` and paste the URL to your new personal work repo. Git will clone your new personal work repo from Github to your laptop.
 
 6. Finally, let's get some practice with our new workflow!
+  1. Create a new text file. Call it `temp.txt` or something similar. It can be an empty text file.
+  2. Type `git status`. What do you see?
+  3. Type 'git add` and your file name.
+  4. Type `git status` again. What changed?
+  5. Type `git commit -m "initial commit"`. Hit enter.
+  6. Switch back to your browser to view your work repo on Github and refresh the page. Do you see any files other than the README.md?
+  7. Switch back to the command line and type `git push -u origin master`. What happens?
+  8. Switch back to Github and refresh the page for your work repo. What do you see now?
+  
 
