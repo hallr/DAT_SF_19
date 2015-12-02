@@ -38,4 +38,17 @@
 
 5. Next, we will set up your personal homework directory:
   1. Leave the command line for a moment and return to your browser. You should already be logged in to your github account.
-  2. 
+  2. Go to your profile. Click on the "Repositories" tab.
+  3. Click on the "New" button.
+  4. Name your new repo `DAT_SF_19_work`.
+  5. Give it a description, such as "YourName's work repo for the DAT19 course at General Assembly San Francisco".
+  6. Click the checkbox to "Initialize this repository with a README". You need at least one file in the repo to be able to clone it.
+  7. You should see your new repo on Github.
+  8. Copy the HTTPS URL to clone the repo.
+  9. Return to the Terminal / your command line.
+  10. **IMPORTANT** Cd out of the DAT_SF_19 course repo! DO NOT clone your homework repo inside the class repo!
+  11. cd to where you want to have your work repo.
+  12. Type `git clone` and paste the URL to your new personal work repo. Git will clone your new personal work repo from Github to your laptop.
+
+6. Finally, let's get some practice with our new workflow!
+
