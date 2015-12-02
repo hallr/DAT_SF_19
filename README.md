@@ -48,8 +48,8 @@ _syllabus last updated: 11/29/2015_
 * Welcome from General Assembly staff
 * Course overview ([slides](slides/01_course_intro.pdf))
 * Introduction to data science ([slides](slides/01_intro_to_data_science.pdf))
-* Discuss the [course project](project/README.md)
-* [public data sources](project/public_data.md)
+* Command line & exercise ([code](code/02_command_line.md))
+* Exit tickets
 
 
 **Homework:**
@@ -64,11 +64,15 @@ _syllabus last updated: 11/29/2015_
 
 -----
 
-### Class 2: Version Control & Python
-* Command line exercise ([code](code/02_command_line.md))
-* Git and GitHub ([slides](slides/02_git_github.pdf))
-* Intermediate command line
-* Wrap up: Course schedule, office hours
+### Class 2: Version Control & Intro to Python
+* Final project presentations from other class
+* Q&A on [course project](project/README.md)) expectations & schedule
+  * [public data sources](project/public_data.md)
+* Version Control with Git and GitHub ([slides](slides/02_version_control_git.pdf))
+* [Git Configuration and Github setup](other/git_github_setup.md)
+* Intro to Python and Exercise
+* Exit tickets
+
 
 **Homework:**
 * Complete the homework exercise listed in the [command line introduction](code/02_command_line.md#homework-exercise). Create a Markdown document that includes your answers and the code you used to arrive at those answers. Add this file to a GitHub repo that you'll use for all of your coursework, and submit a link to your repo using the homework submission form.
