@@ -1,6 +1,6 @@
 ## Git Configuration and Github Setup
 
-IMPORTANT: We will step through this together in class. You do not need to do this on your own.
+**IMPORTANT: We will step through this together in class. You do not need to do this on your own.**
 
 ### GitHub
 * Log into your GitHub account, and "star" the DAT\_SF\_19 repository (the one you are looking at right now) by clicking the Star button in the upper right corner of the screen.
