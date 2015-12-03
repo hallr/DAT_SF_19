@@ -60,6 +60,6 @@
   7. Switch back to the command line and type `git push -u origin master`. What happens?
   8. Switch back to Github and refresh the page for your repo. What do you see now?
 
-8. Bonus question: What do you think will happen if you type `git push -u instructor master`? Why?
+8. **Bonus question**: What do you think will happen if you type `git push -u instructor master`? Why?
 
 
