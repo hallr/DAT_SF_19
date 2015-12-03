@@ -88,6 +88,7 @@ _syllabus last updated: 12/2/2015_
 
 **Git and Markdown Resources:**
 * [Pro Git](http://git-scm.com/book/en/v2) is an excellent book for learning Git. Read the first two chapters to gain a deeper understanding of version control and basic commands.
+* Github's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a good starting point for learning github-flavored markdown.
 
 <!--
 * If you want to practice a lot of Git (and learn many more commands), [Git Immersion](http://gitimmersion.com/) looks promising.
