@@ -6,6 +6,7 @@
 * Log into your GitHub account, and "star" the DAT\_SF\_19 repository (the one you are looking at right now) by clicking the Star button in the upper right corner of the screen.
 
 ### Git
+* You should already have git installed.
 * Make sure you have [Sublime Text 2](http://www.sublimetext.com/2) installed.
 * Open a command line application:
     * For Windows, we recommend [Git Bash](http://git-scm.com/download/win) instead of Git Shell (which uses Powershell).
@@ -21,7 +22,7 @@
 2. Fork the course repo to your Github user account:
   1. In your browser, go to the course repo at `https://github.com/hallr/DAT_SF_19`
   2. Click on the "Fork" button on that page.
-  3. After a few seconds, you should see the fork under YOUR github account.
+  3. After a few seconds, you should see a fork of the repo under YOUR github account.
 
 3. Clone YOUR FORK of the course repo to your laptop:
   1. cd to the place where you want to copy the course repo. Your desktop is a great place for this while in the course, but any place where you can easily find it via the command line is fine. Create a "General Assembly" directory.
@@ -34,6 +35,7 @@
 4. Setup [remotes](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes):
   1. Set up your fork to pull the latest content from the instructor repo in Rob's github account. To do this, we'll create what's called an upstream remote. Type `git remote add instructor https://github.com/hallr/DAT_SF_19.git`
   2. Type `git remote -v` to confirm your remotes are set up correctly.
+  3. From now on, to get the latest content from the course repo, type `git pull instructor`
 
 
 5. **OS X / Unix ONLY** Install the `subl` command: In this step, we will install a new command that will enable us to launch Sublime Text 2 from the command line. We will also set Sublime Text 2 as the default editor for git. The default text editor for git is the system default. So, unless you are comfortable working in vi (on OS X), we strongly recommend that you set up git to use Sublime Text 2.
@@ -57,5 +59,7 @@
   6. Switch back to your browser to view your work repo on Github and refresh the page. Do you see any files other than the README.md?
   7. Switch back to the command line and type `git push -u origin master`. What happens?
   8. Switch back to Github and refresh the page for your repo. What do you see now?
+
+8. Bonus question: What do you think will happen if you type `git push -u instructor master`? Why?
 
 
