@@ -64,13 +64,13 @@ _syllabus last updated: 12/4/2015_
 
 -----
 
-### Class 2: Version Control & Intro to Python
+### Class 2: Version Control
 * Final project presentations from other class
 * Q&A on [course project](project/README.md) expectations & schedule
   * [public data sources](project/public_data.md)
 * Version Control with Git and GitHub ([slides](slides/02_version_control_git.pdf))
 * [Git Configuration and Github setup](other/git_github_setup.md)
-* Intro to Python ([slides](slides/02_intro_to_python.pdf))
+* Moved to Class 3: Intro to Python ([slides](slides/02_intro_to_python.pdf))
 * Exit tickets
 
 
