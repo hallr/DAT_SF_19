@@ -23,9 +23,9 @@ Slack will be the primary way we communicate with each other.
 
 Monday | Wednesday
 --- | ---
-11/30: Course Overview, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Version Control, Intro to Python](#class-2-version-control--intro-to-python)
-12/7: Intro to Machine Learning, KNN | 12/9: Data Reading and Cleaning
-12/14: Data Exploration | 12/16: Scikit-learn and Model Evaluation <br>**Project Question & Dataset Due**
+11/30: Course Overview, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Version Control](#class-2-version-control--intro-to-python)
+12/7: Intro to Python | 12/9: Intro to Machine Learning, KNN
+12/14: Data Munging with Pandas | 12/16: Scikit-learn and Model Evaluation <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
 1/4: Linear Regression | 1/6: Logistic Regression
@@ -38,7 +38,7 @@ Monday | Wednesday
 2/22: Advanced Topic or Guest Speaker | 2/24: Course Review |
 2/29: **Project Presentations & Project Due** | 3/2: **Project Presentations & Project Due**
 
-_syllabus last updated: 12/2/2015_
+_syllabus last updated: 12/4/2015_
 
 
 
