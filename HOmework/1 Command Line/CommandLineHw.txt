@@ -1,0 +1,29 @@
+## command line exercises
+## Ctrl C to escape a loop
+
+## Using chipotle.tsv in the data subdirectory:
+## Look at the head and the tail, and think for a minute about how the 
+head ../../data/chipotle.tsv
+tail ../../data/chipotle.tsv
+
+## data is structured. What do you think each column means? What do you ## think each row means? Tell me! (If you're unsure, look at more of 
+## the file contents.)
+## Each line is an order, the name of the item, the price, and the ingredients
+
+# How many orders do there appear to be?
+wc -l ../../data/chipotle.tsv
+
+# How many lines are in the file?
+# 4623 
+# Which burrito is more popular, steak or chicken?
+grep -i "chicken" ../../data/chipotle.tsv > countchicken.csv
+grep -i "steak" ../../data/chipotle.tsv > countsteak.csv
+# chicken by doing word count
+wc -l countchicken.csv
+wc -l countsteak.csv
+
+# Do chicken burritos more often have black beans or pinto beans?
+
+# Make a list of all of the CSV or TSV files in the DAT7 repo (using a #single command). Think about how wildcard characters can help you with # this task.
+#Count the number of occurrences of the word 'dictionary' (regardless of case) across all files in the DAT7 repo.
+Optional: Use the the command line to discover something "interesting" about the Chipotle data. The advanced commands below may be helpful to you!

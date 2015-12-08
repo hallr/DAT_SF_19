@@ -1,0 +1,20 @@
+## Ideas for Data Science Homework
+1. Analyze the student body at Endgames
++ how often do they take classes?
++ how many classes do they take?
++ what percentage go on to the next level?
++ time between taking classes?
+
+2. AirBnB data set on Kaggle
+
+3. Walmart data on Kaggle
+
+
+PROCESS
+git status
+git add <filename>
+git commit -m "commit message"
+git push -u origin master 
+## pointer to URL: origin is the URL
+## master is the Branch name
+ 
