@@ -23,9 +23,9 @@ Slack will be the primary way we communicate with each other.
 
 Monday | Wednesday
 --- | ---
-11/30: Course Overview, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Version Control, Intro to Python](#class-2-version-control--intro-to-python)
-12/7: Intro to Machine Learning, KNN | 12/9: Data Reading and Cleaning
-12/14: Data Exploration | 12/16: Scikit-learn and Model Evaluation <br>**Project Question & Dataset Due**
+11/30: Course Overview, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Version Control](#class-2-version-control)
+12/7: Intro to Python | 12/9: Intro to Machine Learning, KNN
+12/14: Data Munging with Pandas | 12/16: Scikit-learn and Model Evaluation <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
 1/4: Linear Regression | 1/6: Logistic Regression
@@ -38,7 +38,7 @@ Monday | Wednesday
 2/22: Advanced Topic or Guest Speaker | 2/24: Course Review |
 2/29: **Project Presentations & Project Due** | 3/2: **Project Presentations & Project Due**
 
-_syllabus last updated: 12/2/2015_
+_syllabus last updated: 12/4/2015_
 
 
 
@@ -64,13 +64,13 @@ _syllabus last updated: 12/2/2015_
 
 -----
 
-### Class 2: Version Control & Intro to Python
+### Class 2: Version Control
 * Final project presentations from other class
 * Q&A on [course project](project/README.md) expectations & schedule
   * [public data sources](project/public_data.md)
 * Version Control with Git and GitHub ([slides](slides/02_version_control_git.pdf))
 * [Git Configuration and Github setup](other/git_github_setup.md)
-* Intro to Python ([slides](slides/02_intro_to_python.pdf))
+* Moved to Class 3: Intro to Python ([slides](slides/02_intro_to_python.pdf))
 * Exit tickets
 
 
@@ -87,14 +87,15 @@ _syllabus last updated: 12/2/2015_
 -->
 
 **Git and Markdown Resources:**
-* [Pro Git](http://git-scm.com/book/en/v2) is an excellent book for learning Git. Read the first two chapters to gain a deeper understanding of version control and basic commands.
+* [Pro Git](http://git-scm.com/doc) is an excellent book for learning Git. Read [Chapter 1 - Getting Started](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and [Chapter 2 - Git Basics](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) to gain a deeper understanding of version control and basic commands.
+* Very quick [Git tutorial](https://try.github.io) by Github and Codeschool. Recommended practice!
 * Github's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a good starting point for learning github-flavored markdown.
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) provides a thorough set of Markdown examples with concise explanations.
 
 <!--
 * If you want to practice a lot of Git (and learn many more commands), [Git Immersion](http://gitimmersion.com/) looks promising.
 * If you want to understand how to contribute on GitHub, you first have to understand [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/).
 * [GitRef](http://gitref.org/) is a great reference guide for Git commands, and [Git quick reference for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/) is a shorter guide with commands grouped by workflow.
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) provides a thorough set of Markdown examples with concise explanations. GitHub's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a simpler and more attractive guide, but is less comprehensive.
 -->
 
 **Command Line Resources:**
