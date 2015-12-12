@@ -4,7 +4,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Instructor:** [Rob Hall](https://generalassemb.ly/instructors/rob-hall/1864)
 
-**TA:** [Justin Breucop](https://www.linkedin.com/in/jbreucop)
+**TA's:** 
+* Justin Breucop
+* Dave Yerrington
 
 #### Slack
 
@@ -25,10 +27,10 @@ Monday | Wednesday
 --- | ---
 11/30: Course Overview, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Version Control](#class-2-version-control)
 12/7: Intro to Python | 12/9: Intro to Machine Learning, KNN
-12/14: Data Munging with Pandas | 12/16: Scikit-learn and Model Evaluation <br>**Project Question & Dataset Due**
+12/14: Pandas, Viz, Model Evaluation | 12/16: Regression & Regularization <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
-1/4: Linear Regression | 1/6: Logistic Regression
+1/4: Logistic Regression | 1/6: APIs & Web Scraping
 1/11: Naive Bayes | 1/13: Advanced Model Evaluation
 1/18: **No Class** (MLK Day) | 1/20: Clustering <br>**Project First Draft Due**
 1/25: Decision Trees | 1/27: Ensembling Techniques
@@ -38,7 +40,7 @@ Monday | Wednesday
 2/22: Advanced Topic or Guest Speaker | 2/24: Course Review |
 2/29: **Project Presentations & Project Due** | 3/2: **Project Presentations & Project Due**
 
-_syllabus last updated: 12/4/2015_
+_syllabus last updated: 12/12/2015_
 
 
 
