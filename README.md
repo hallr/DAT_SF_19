@@ -10,9 +10,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 #### Office Hours
 
-Justin: Sundays 3-6pm at GA
-Dave: Fridays 6-8pm at GA
-Rob: Slack and by appointment
+Justin | Sundays 3-6pm at GA
+Dave | Fridays 6-8pm at GA
+Rob | Slack and by appointment
 
 #### Slack
 
