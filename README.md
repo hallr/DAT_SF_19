@@ -87,6 +87,28 @@ _syllabus last updated: 12/12/2015_
 **Homework:**
 * If you haven't already, complete the homework exercise listed in the [command line introduction](code/02_command_line.md#homework-exercise). Create a Markdown document that includes your answers and the code you used to arrive at those answers. Add this file to a GitHub repo that you'll use for all of your coursework, and submit a link to your repo using the homework submission form.
 
+
+**Git and Markdown Resources:**
+* [Pro Git](http://git-scm.com/doc) is an excellent book for learning Git. Read [Chapter 1 - Getting Started](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and [Chapter 2 - Git Basics](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) to gain a deeper understanding of version control and basic commands.
+* Very quick [Git tutorial](https://try.github.io) by Github and Codeschool. Recommended practice!
+* Github's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a good starting point for learning github-flavored markdown.
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) provides a thorough set of Markdown examples with concise explanations.
+
+
+**Command Line Resources:**
+* If you want to go much deeper into the command line, [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do) is a great book. The [companion website](http://datascienceatthecommandline.com/) provides installation instructions for a "data science toolbox" (a virtual machine with many more command line tools), as well as a long reference guide to popular command line tools.
+
+-----
+
+### Class 3: Intro to Python
+
+* Jupyter Notebook overview ([slides](slides/03-1_jupyter_notebook.pdf))
+* Intro to Python ([slides](slides/03-2_python.pdf))
+* Linear algebra refresher ([slides](slides/03-3_linear_algebra.pdf))
+
+
+**Python Resources**
+
 <!--
 * Review the code from the [beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) Python workshops. If you don't feel comfortable with any of the content (up through the "dictionaries" section), you should spend some time this weekend practicing Python. Here are my recommended resources:
     * If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
@@ -96,49 +118,34 @@ _syllabus last updated: 12/12/2015_
 * If there are specific Python topics you want me to cover next week, send me a Slack message.
 -->
 
-**Git and Markdown Resources:**
-* [Pro Git](http://git-scm.com/doc) is an excellent book for learning Git. Read [Chapter 1 - Getting Started](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and [Chapter 2 - Git Basics](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) to gain a deeper understanding of version control and basic commands.
-* Very quick [Git tutorial](https://try.github.io) by Github and Codeschool. Recommended practice!
-* Github's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a good starting point for learning github-flavored markdown.
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) provides a thorough set of Markdown examples with concise explanations.
+-----
 
-<!--
-* If you want to practice a lot of Git (and learn many more commands), [Git Immersion](http://gitimmersion.com/) looks promising.
-* If you want to understand how to contribute on GitHub, you first have to understand [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/).
-* [GitRef](http://gitref.org/) is a great reference guide for Git commands, and [Git quick reference for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/) is a shorter guide with commands grouped by workflow.
--->
+### Class 4: Intro to Machine Learning & Classification with KNN
 
-**Command Line Resources:**
-* If you want to go much deeper into the command line, [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do) is a great book. The [companion website](http://datascienceatthecommandline.com/) provides installation instructions for a "data science toolbox" (a virtual machine with many more command line tools), as well as a long reference guide to popular command line tools.
-
+* Intro to Machine Learning ([slides](slides/04_intro_ml_knn.pdf))
+* Lab: KNN classification with Scikit-learn ([notebook](labs/05_knn_sklearn.ipynb))
 
 -----
 
-<!--
-### Homework Schedule
+### Class 5: numpy & pandas, Visualization, Model Evaluation
 
-Please submit completed homework assignments by pushing them to your homework repo under your own userid and then telling us where to find your homework via the [homework submission form](http://goo.gl/forms/QBZBG4P3bm).
+* Lab: numpy ([notebook](labs/05_numpy_pandas_bokeh.ipynb))
+* Lab: pandas ([notebook](labs/05_numpy_pandas_bokeh.ipynb))
+* Lab: Visualization with Bokeh ([notebook](labs/05_numpy_pandas_bokeh.ipynb))
+* Model Evaluation, incl. Cross Validation ([slides](slides/05_model_evaluation.pdf))
+* Lab: Cross validation with Python and Scikit-learn
 
-HW | Topics | Dataset | Assigned | Due
---- | --- | --- | --- | ---
-1 | Data Exploration | titanic | 3/11 | 3/16
-2 | KNN & Cross Validation | iris | 3/18 | 3/25
-FP1 | Elevator Pitch | N/A | 3/23 | 4/1
-3 | Decision Trees | bank | 3/30 (as mandatory) | 4/8 (extended)
-4 | Logistic Regression, ROC/AUC, & Imbalanced Classes | spam | 4/13 | 4/20
-FP2 | [First Draft](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) of Final Project | yours | 4/13 | 4/27
-FP3 | [Peer Feedback](https://github.com/ga-students/DAT_SF_13/blob/master/project/peer_review_guidelines.md) on FP First Draft | yours | 4/27 | 5/4
+-----
 
-### Communication
+### Class 6: Regression & Regularization
 
-#### Office Hours
+* Regression: Linear, Multiple, Polynomial ([slides](slides/06_regression.pdf))
+* Regularization ([slides](slides/06_regression.pdf))
 
-instructor | times available | method
-:----------|:-------------------|:--
-Ankit      | Wednesday, 6:00 - 6:30 PM | in person before class, slack, hangouts by appointment
-Chetan	   | Monday, 6:00 - 6:30 PM | in person before class, hangouts by appointment
-Matt       | Thursday, 6:00 - 7:00 PM | in person (at GA in "the concourse"), slack, hangouts by appointment
-Rob        | Tues & Thurs, all day   | slack (quickest response) or hangouts by appointment
+-----
 
-Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
--->
+
+
+
+
+
