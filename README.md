@@ -106,17 +106,10 @@ _syllabus last updated: 12/12/2015_
 * Intro to Python ([slides](slides/03-2_python.pdf))
 * Linear algebra refresher ([slides](slides/03-3_linear_algebra.pdf))
 
-
-**Python Resources**
-
 <!--
-* Review the code from the [beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) Python workshops. If you don't feel comfortable with any of the content (up through the "dictionaries" section), you should spend some time this weekend practicing Python. Here are my recommended resources:
-    * If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
-    * If you prefer interactive exercises, try these lessons from [Codecademy](http://www.codecademy.com/en/tracks/python): "Python Lists and Dictionaries" and "A Day at the Supermarket".
-    * If you have more time, try these much longer lessons from [DataQuest](https://dataquest.io/missions): "Find the US city with the lowest crime rate" and "Discover weather patterns in LA".
-    * If you've already mastered these topics and want more of a challenge, try solving the second [Python Challenge](http://www.pythonchallenge.com/) and send me your code in Slack.
-* If there are specific Python topics you want me to cover next week, send me a Slack message.
+**Python Resources**
 -->
+
 
 -----
 
