@@ -34,8 +34,8 @@ Slack will be the primary way we communicate with each other.
 Monday | Wednesday
 --- | ---
 11/30: Course Overview, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Version Control](#class-2-version-control)
-12/7: Intro to Python | 12/9: Intro to Machine Learning, KNN
-12/14: Pandas, Viz, Model Evaluation | 12/16: Regression & Regularization <br>**Project Question & Dataset Due**
+12/7: [Intro to Python](#class-3-intro-to-python) | 12/9: [Intro to Machine Learning, KNN](#class-4-intro-to-machine-learning--classification-with-knn)
+12/14: [NumPy, Pandas, Viz, Model Evaluation](#class-5-numpy--pandas-visualization-model-evaluation) | 12/16: Regression & Regularization <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
 1/4: Logistic Regression | 1/6: APIs & Web Scraping
@@ -137,7 +137,7 @@ _syllabus last updated: 12/12/2015_
 * Lab: pandas ([notebook](labs/05_numpy_pandas_bokeh.ipynb))
 * Lab: Visualization with Bokeh ([notebook](labs/05_numpy_pandas_bokeh.ipynb))
 * Model Evaluation, incl. Cross Validation ([slides](slides/05_model_evaluation.pdf))
-* Lab: Cross validation with Python and Scikit-learn
+* Lab: Cross validation with Python and Scikit-learn ([notebook](labs/05_model_evaluation_lab.ipynb))
 
 **Pandas Resources:**
 * To learn more Pandas, review this [three-part tutorial](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/).
