@@ -16,14 +16,13 @@ Justin | Sundays 3-6pm at GA
 Dave | Fridays 6-8pm at GA
 Rob | Slack and by appointment
 
-#### Slack
-
-Once you've received the invitation to Slack, please log in and **add your picture**!
-Slack will be the primary way we communicate with each other.
+#### Setup Info
 
 **[Installation and Setup Checklist](other/setup_checklist.md)**
 
 **[Git and Github Setup](other/git_github_setup.md)**
+
+#### Project Info
 
 **[Course Project Info](project/README.md)**
 
