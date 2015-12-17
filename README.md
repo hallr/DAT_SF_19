@@ -8,14 +8,21 @@ Course materials for [General Assembly's Data Science course](https://generalass
 * Justin Breucop
 * Dave Yerrington
 
-#### Slack
+#### Office Hours
 
-Once you've received the invitation to Slack, please log in and **add your picture**!
-Slack will be the primary way we communicate with each other.
+Who | When
+--- | ---
+Justin | Sundays 3-6pm at GA
+Dave | Fridays 6-8pm at GA
+Rob | Slack and by appointment
+
+#### Setup Info
 
 **[Installation and Setup Checklist](other/setup_checklist.md)**
 
 **[Git and Github Setup](other/git_github_setup.md)**
+
+#### Project Info
 
 **[Course Project Info](project/README.md)**
 
@@ -26,8 +33,8 @@ Slack will be the primary way we communicate with each other.
 Monday | Wednesday
 --- | ---
 11/30: Course Overview, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Version Control](#class-2-version-control)
-12/7: Intro to Python | 12/9: Intro to Machine Learning, KNN
-12/14: Pandas, Viz, Model Evaluation | 12/16: Regression & Regularization <br>**Project Question & Dataset Due**
+12/7: [Intro to Python](#class-3-intro-to-python) | 12/9: [Intro to Machine Learning, KNN](#class-4-intro-to-machine-learning--classification-with-knn)
+12/14: [NumPy, Pandas, Viz, Model Evaluation](#class-5-numpy--pandas-visualization-model-evaluation) | 12/16: Regression & Regularization <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
 1/4: Logistic Regression | 1/6: APIs & Web Scraping
@@ -79,14 +86,6 @@ _syllabus last updated: 12/12/2015_
 **Homework:**
 * If you haven't already, complete the homework exercise listed in the [command line introduction](code/02_command_line.md#homework-exercise). Create a Markdown document that includes your answers and the code you used to arrive at those answers. Add this file to a GitHub repo that you'll use for all of your coursework, and submit a link to your repo using the homework submission form.
 
-<!--
-* Review the code from the [beginner](code/00_python_beginner_workshop.py) and [intermediate](code/00_python_intermediate_workshop.py) Python workshops. If you don't feel comfortable with any of the content (up through the "dictionaries" section), you should spend some time this weekend practicing Python. Here are my recommended resources:
-    * If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
-    * If you prefer interactive exercises, try these lessons from [Codecademy](http://www.codecademy.com/en/tracks/python): "Python Lists and Dictionaries" and "A Day at the Supermarket".
-    * If you have more time, try these much longer lessons from [DataQuest](https://dataquest.io/missions): "Find the US city with the lowest crime rate" and "Discover weather patterns in LA".
-    * If you've already mastered these topics and want more of a challenge, try solving the second [Python Challenge](http://www.pythonchallenge.com/) and send me your code in Slack.
-* If there are specific Python topics you want me to cover next week, send me a Slack message.
--->
 
 **Git and Markdown Resources:**
 * [Pro Git](http://git-scm.com/doc) is an excellent book for learning Git. Read [Chapter 1 - Getting Started](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and [Chapter 2 - Git Basics](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) to gain a deeper understanding of version control and basic commands.
@@ -94,43 +93,77 @@ _syllabus last updated: 12/12/2015_
 * Github's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a good starting point for learning github-flavored markdown.
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) provides a thorough set of Markdown examples with concise explanations.
 
-<!--
-* If you want to practice a lot of Git (and learn many more commands), [Git Immersion](http://gitimmersion.com/) looks promising.
-* If you want to understand how to contribute on GitHub, you first have to understand [forks and pull requests](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/).
-* [GitRef](http://gitref.org/) is a great reference guide for Git commands, and [Git quick reference for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/) is a shorter guide with commands grouped by workflow.
--->
 
 **Command Line Resources:**
 * If you want to go much deeper into the command line, [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do) is a great book. The [companion website](http://datascienceatthecommandline.com/) provides installation instructions for a "data science toolbox" (a virtual machine with many more command line tools), as well as a long reference guide to popular command line tools.
 
+-----
+
+### Class 3: Intro to Python
+
+* Jupyter Notebook overview ([slides](slides/03-1_jupyter_notebook.pdf))
+* Intro to Python ([slides](slides/03-2_python.pdf))
+* Linear algebra refresher ([slides](slides/03-3_linear_algebra.pdf))
+
+**Python Resources:**
+* [Codecademy's Python course](http://www.codecademy.com/en/tracks/python): Good beginner material, including tons of in-browser exercises.
+* [DataQuest](https://dataquest.io/): Similar interface to Codecademy, but focused on teaching Python in the context of data science.
+* [Google's Python Class](https://developers.google.com/edu/python/): Slightly more advanced, including hours of useful lecture videos and downloadable exercises (with solutions).
+* [A Crash Course in Python for Scientists](http://nbviewer.ipython.org/gist/rpmuller/5920182): Read through the Overview section for a quick introduction to Python.
+* [Python for Informatics](http://www.pythonlearn.com/book.php): A very beginner-oriented book, with associated [slides](https://drive.google.com/folderview?id=0B7X1ycQalUnyal9yeUx3VW81VDg&usp=sharing) and [videos](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ).
+
 
 -----
 
-<!--
-### Homework Schedule
+### Class 4: Intro to Machine Learning & Classification with KNN
 
-Please submit completed homework assignments by pushing them to your homework repo under your own userid and then telling us where to find your homework via the [homework submission form](http://goo.gl/forms/QBZBG4P3bm).
+* Intro to Machine Learning ([slides](slides/04_intro_ml_knn.pdf))
+* Lab: KNN classification with Scikit-learn ([notebook](labs/05_knn_sklearn.ipynb))
 
-HW | Topics | Dataset | Assigned | Due
---- | --- | --- | --- | ---
-1 | Data Exploration | titanic | 3/11 | 3/16
-2 | KNN & Cross Validation | iris | 3/18 | 3/25
-FP1 | Elevator Pitch | N/A | 3/23 | 4/1
-3 | Decision Trees | bank | 3/30 (as mandatory) | 4/8 (extended)
-4 | Logistic Regression, ROC/AUC, & Imbalanced Classes | spam | 4/13 | 4/20
-FP2 | [First Draft](https://github.com/ga-students/DAT_SF_13/blob/master/project/dat_project.md#april-26-first-draft-due) of Final Project | yours | 4/13 | 4/27
-FP3 | [Peer Feedback](https://github.com/ga-students/DAT_SF_13/blob/master/project/peer_review_guidelines.md) on FP First Draft | yours | 4/27 | 5/4
+**ML Resources**:
+* For a more formal, in-depth introduction to machine learning, read section 2.1 (14 pages) of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
 
-### Communication
+**KNN Resources:**
+* [A Detailed Introduction to KNN](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/) is a bit dense, but provides a more thorough introduction to KNN and its applications.
+* Browse through the scikit-learn documentation for KNN to get a sense of how it's organized: [user guide](http://scikit-learn.org/stable/modules/neighbors.html), [module reference](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.neighbors), [class documentation](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 
-#### Office Hours
 
-instructor | times available | method
-:----------|:-------------------|:--
-Ankit      | Wednesday, 6:00 - 6:30 PM | in person before class, slack, hangouts by appointment
-Chetan	   | Monday, 6:00 - 6:30 PM | in person before class, hangouts by appointment
-Matt       | Thursday, 6:00 - 7:00 PM | in person (at GA in "the concourse"), slack, hangouts by appointment
-Rob        | Tues & Thurs, all day   | slack (quickest response) or hangouts by appointment
+-----
 
-Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly.
--->
+### Class 5: numpy & pandas, Visualization, Model Evaluation
+
+* Lab: numpy ([notebook](labs/05_numpy_pandas_bokeh.ipynb))
+* Lab: pandas ([notebook](labs/05_numpy_pandas_bokeh.ipynb))
+* Lab: Visualization with Bokeh ([notebook](labs/05_numpy_pandas_bokeh.ipynb))
+* Model Evaluation, incl. Cross Validation ([slides](slides/05_model_evaluation.pdf))
+* Lab: Cross validation with Python and Scikit-learn ([notebook](labs/05_model_evaluation_lab.ipynb))
+
+**Pandas Resources:**
+* To learn more Pandas, review this [three-part tutorial](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/).
+* Browsing or searching the Pandas [API Reference](http://pandas.pydata.org/pandas-docs/stable/api.html) is an excellent way to locate a function even if you don't know its exact name.
+* If you want to go really deep into Pandas (and NumPy), read the book [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) by Wes McKinney, the creator of Pandas. Ping me on Slack for a discount code.
+* Here are examples of different types of [joins in Pandas](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/#joining), for when you need to figure out how to merge two DataFrames.
+* **Optional:** Read the [Teaching Assistant Evaluation dataset](https://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation) into Pandas, create the X and y objects (the response variable is "class attribute"), and go through scikit-learn's 4-step modeling process. (There's no need to submit your code unless you have a question or would like feedback!)
+
+**Model Evaluation Resources**
+* For another explanation of training error versus testing error, the bias-variance tradeoff, and train/test split (also known as the "validation set approach"), watch Hastie and Tibshirani's video on [estimating prediction error](https://www.youtube.com/watch?v=_2ij6eaaSl0&t=2m34s) (12 minutes, starting at 2:34).
+* Caltech's Learning From Data course includes a fantastic video on [visualizing bias and variance](http://work.caltech.edu/library/081.html) (15 minutes).
+* [Random Test/Train Split is Not Always Enough](http://www.win-vector.com/blog/2015/01/random-testtrain-split-is-not-always-enough/) explains why random train/test split may not be a suitable model evaluation procedure if your data has a significant time element.
+
+**Additional Resources:**
+* [What I do when I get a new data set as told through tweets](http://simplystatistics.org/2014/06/13/what-i-do-when-i-get-a-new-data-set-as-told-through-tweets/) is a fun (yet enlightening) look at the process of exploratory data analysis.
+
+-----
+
+### Class 6: Regression & Regularization
+
+* Regression: Linear, Multiple, Polynomial ([slides](slides/06_regression.pdf))
+* Regularization ([slides](slides/06_regression.pdf))
+
+-----
+
+### Resources for Continued Learning over the Holiday Break
+
+
+
+
