@@ -38,8 +38,8 @@ Monday | Wednesday
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
 1/4: Logistic Regression | 1/6: Naive Bayes
-1/11: Advanced Model Evaluation | 1/13: APIs & Web Scraping
-1/18: **No Class** (MLK Day) | 1/20: Clustering <br>**Project First Draft Due**
+1/11: Clustering | 1/13: APIs & Web Scraping
+1/18: **No Class** (MLK Day) | 1/20: Advanced Model Evaluation <br>**Project First Draft Due**
 1/25: Decision Trees | 1/27: Ensembling Techniques
 2/1: Dimensionality Reduction | 2/3: Support Vector Machines
 2/8: Recommender Systems | 2/10: SQL, Databases <br>**Project Second Draft Due (Optional)**
