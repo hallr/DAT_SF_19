@@ -41,7 +41,7 @@ Monday | Wednesday
 1/11: Clustering | 1/13: APIs & Web Scraping
 1/18: **No Class** (MLK Day) | 1/20: Advanced Model Evaluation <br>**Project First Draft Due**
 1/25: Decision Trees | 1/27: Random Forests, Ensembling Techniques
-2/1: Dimensionality Reduction | 2/3: Support Vector Machines
+2/1: Support Vector Machines | 2/3: Dimensionality Reduction & PCA
 2/8: Recommender Systems | 2/10: Text Processing / NLP <br>**Project Second Draft Due (Optional)**
 2/15: **No Class** (President's Day) | 2/17: SQL, Databases
 2/22: Advanced Topic or Guest Speaker | 2/24: Course Review |
