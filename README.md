@@ -34,17 +34,17 @@ Monday | Wednesday
 --- | ---
 11/30: Course Overview, [Introduction to Data Science](#class-1-introduction-to-data-science) | 12/2: [Version Control](#class-2-version-control)
 12/7: [Intro to Python](#class-3-intro-to-python) | 12/9: [Intro to Machine Learning, KNN](#class-4-intro-to-machine-learning--classification-with-knn)
-12/14: [NumPy, Pandas, Viz, Model Evaluation](#class-5-numpy--pandas-visualization-model-evaluation) | 12/16: Regression & Regularization <br>**Project Question & Dataset Due**
+12/14: [NumPy, Pandas, Viz, Model Evaluation](#class-5-numpy--pandas-visualization-model-evaluation) | 12/16: [Regression and Regularization](#class-6-regression-and-regularization) <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
 1/4: Logistic Regression | 1/6: Naive Bayes
 1/11: Clustering | 1/13: APIs & Web Scraping
 1/18: **No Class** (MLK Day) | 1/20: Advanced Model Evaluation <br>**Project First Draft Due**
-1/25: Decision Trees | 1/27: Random Forests, Ensembling Techniques
+1/25: Decision Trees | 1/27: Ensembles and Random Forests
 2/1: Support Vector Machines | 2/3: Dimensionality Reduction & PCA
 2/8: Recommender Systems | 2/10: Text Processing / NLP <br>**Project Second Draft Due (Optional)**
 2/15: **No Class** (President's Day) | 2/17: SQL, Databases
-2/22: Advanced Topic or Guest Speaker | 2/24: Course Review |
+2/22: In-class Kaggle Competition or Advanced Topic | 2/24: Course Review |
 2/29: **Project Presentations & Project Due** | 3/2: **Project Presentations & Project Due**
 
 _syllabus last updated: 01/27/2016_
@@ -155,14 +155,49 @@ _syllabus last updated: 01/27/2016_
 
 -----
 
-### Class 6: Regression & Regularization
+### Class 6: Regression and Regularization
 
 * Regression: Linear, Multiple, Polynomial ([slides](slides/06_regression.pdf))
 * Regularization ([slides](slides/06_regression.pdf))
 
 -----
 
-### Resources for Continued Learning over the Holiday Break
+### Class 7: Logistic Regression
+
+
+
+-----
+
+### Class 8: Naive Bayes
+
+-----
+
+### Class 9: Clustering
+
+-----
+
+### Class 10: APIs & Web Scraping
+
+-----
+
+### Class 11: Advanced Model Evaluation
+
+-----
+
+### Class 12: Decision Trees
+
+-----
+
+### Class 13: Ensembles and Random Forests
+
+-----
+
+### Class 14: Support Vector Machines
+
+* Support Vector Machines ([slides](slides/14-support-vector-machines.pdf))
+* Lab: KNN classification with Scikit-learn ([notebook](labs/14-SVMs.ipynb))
+
+-----
 
 
 
