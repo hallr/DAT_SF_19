@@ -43,11 +43,11 @@ Monday | Wednesday
 1/25: [Decision Trees](#class-12-decision-trees) | 1/27: [Ensembles and Random Forests](#class-13-ensembles-and-random-forests)
 2/1: [Support Vector Machines](#class-14-support-vector-machines) | 2/3: Dimensionality Reduction & PCA
 2/8: Recommender Systems | 2/10: Text Processing / NLP <br>**Project Second Draft Due (Optional)**
-2/15: **No Class** (President's Day) | 2/17: SQL, Databases
-2/22: In-class Kaggle Competition or Advanced Topic | 2/24: Course Review |
+2/15: **No Class** (President's Day) | 2/17: SQL & Databases
+2/22: In-class Kaggle Competition or Advanced Topic | 2/24: Course Review & Where to Go from Here |
 2/29: **Project Presentations & Project Due** | 3/2: **Project Presentations & Project Due**
 
-_syllabus last updated: 01/27/2016_
+_syllabus last updated: 02/01/2016_
 
 
 
@@ -189,6 +189,16 @@ _syllabus last updated: 01/27/2016_
 -----
 
 ### Class 11: Advanced Model Evaluation
+
+* Model Evaluation, ROC, & AUC ([slides](slides/11-evaluation-ROC-AUC.pdf))
+* Lab: Imbalanced Classes, Evaluation, & ROC (solutions) ([notebook](labs/11-Imbalance_and_Evaluation_ROC-Solutions.ipynb))
+
+**ROC Resources:**
+* Rahul Patwari has a great video on [ROC Curves](https://www.youtube.com/watch?v=21Igj5Pr6u4) (12 minutes).
+* [An introduction to ROC analysis](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf) is a very readable paper on the topic.
+* These [lesson notes](http://ebp.uga.edu/courses/Chapter%204%20-%20Diagnosis%20I/8%20-%20ROC%20curves.html) from a course at the University of Georgia include some simple, real-world examples of the use of ROC curves.
+* ROC curves can be used across a wide variety of applications, such as [comparing different feature sets](http://research.microsoft.com/pubs/205472/aisec10-leontjeva.pdf) for detecting fraudulent Skype users, and [comparing different classifiers](http://www.cse.ust.hk/nevinZhangGroup/readings/yi/Bradley_PR97.pdf) on a number of popular datasets.
+* This blog post about [Amazon Machine Learning](https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/) contains a neat [graphic](https://media.amazonwebservices.com/blog/2015/ml_adjust_model_1.png) showing how classification threshold affects different evaluation metrics.
 
 -----
 
