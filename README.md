@@ -195,7 +195,11 @@ _syllabus last updated: 01/27/2016_
 ### Class 14: Support Vector Machines
 
 * Support Vector Machines ([slides](slides/14-support-vector-machines.pdf))
-* Lab: KNN classification with Scikit-learn ([notebook](labs/14-SVMs.ipynb))
+* Lab: SVMs: Illuminating Advanced Classifiers ([notebook](labs/14-SVMs.ipynb))
+
+**Additional Resources:**
+* See the video embedded in the answer to [this question on Quora](https://www.quora.com/What-does-support-vector-machine-SVM-mean-in-laymans-terms) for a great animation of how kernels project non-linear classification problems into a higher dimensional space where they can be solved with a linear decision boundary / maximum margin hyperplane.
+* For students who enjoy digging into the underlying mathematical concepts, [this reading](http://www.cs.colostate.edu/%7Easa/pdfs/howto.pdf) details the math behind support vector machines. Some of the examples in the lecture slides are taken from this reading. 
 
 -----
 
