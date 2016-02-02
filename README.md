@@ -41,7 +41,7 @@ Monday | Wednesday
 1/11: Clustering | 1/13: APIs & Web Scraping
 1/18: **No Class** (MLK Day) | 1/20: Advanced Model Evaluation <br>**Project First Draft Due**
 1/25: Decision Trees | 1/27: Ensembles and Random Forests
-2/1: Support Vector Machines | 2/3: Dimensionality Reduction & PCA
+2/1: [Support Vector Machines](#class-14-support-vector-machines) | 2/3: Dimensionality Reduction & PCA
 2/8: Recommender Systems | 2/10: Text Processing / NLP <br>**Project Second Draft Due (Optional)**
 2/15: **No Class** (President's Day) | 2/17: SQL, Databases
 2/22: In-class Kaggle Competition or Advanced Topic | 2/24: Course Review |
@@ -164,6 +164,14 @@ _syllabus last updated: 01/27/2016_
 
 ### Class 7: Logistic Regression
 
+* Logistic Regression ([slides](slides/07-logistic-regression.pdf))
+* Lab: Logistic Regression ([notebook](labs/07-Logistic_Regression.ipynb))
+
+**Resources:**
+* To go deeper into logistic regression, read the first three sections of Chapter 4 of [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/).
+* For a math-ier explanation of logistic regression, watch the first seven videos (71 minutes) from week 3 of Andrew Ng's [machine learning course](https://www.coursera.org/learn/machine-learning/home/info), or read the [related lecture notes](http://www.holehouse.org/mlclass/06_Logistic_Regression.html) compiled by a student.
+* For more on interpreting logistic regression coefficients, read this excellent [guide](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/odds_ratio.htm) by UCLA's IDRE and these [lecture notes](http://www.unm.edu/~schrader/biostat/bio2/Spr06/lec11.pdf) from the University of New Mexico.
+* The scikit-learn documentation has a nice [explanation](http://scikit-learn.org/stable/modules/calibration.html) of what it means for a predicted probability to be calibrated.
 
 
 -----
@@ -199,7 +207,8 @@ _syllabus last updated: 01/27/2016_
 
 **Additional Resources:**
 * See the video embedded in the answer to [this question on Quora](https://www.quora.com/What-does-support-vector-machine-SVM-mean-in-laymans-terms) for a great animation of how kernels project non-linear classification problems into a higher dimensional space where they can be solved with a linear decision boundary / maximum margin hyperplane.
-* For students who enjoy digging into the underlying mathematical concepts, [this reading](http://www.cs.colostate.edu/%7Easa/pdfs/howto.pdf) details the math behind support vector machines. Some of the examples in the lecture slides are taken from this reading. 
+* For students who enjoy digging into the underlying mathematical concepts, [this reading](http://www.cs.colostate.edu/%7Easa/pdfs/howto.pdf) details the math behind support vector machines. Some of the examples in the lecture slides are taken from this reading.
+* [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html) is a very nice comparison of five classifiers we cover in the course (logistic regression, decision trees, KNN, Naive Bayes, and support vector machines).
 
 -----
 
