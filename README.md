@@ -37,10 +37,10 @@ Monday | Wednesday
 12/14: [NumPy, Pandas, Viz, Model Evaluation](#class-5-numpy--pandas-visualization-model-evaluation) | 12/16: [Regression and Regularization](#class-6-regression-and-regularization) <br>**Project Question & Dataset Due**
 12/21: **No Class** (Holiday Break) | 12/23: **No Class** (Holiday Break)
 12/28: **No Class** (Holiday Break) | 12/30: **No Class** (Holiday Break)
-1/4: Logistic Regression | 1/6: Naive Bayes
-1/11: Clustering | 1/13: APIs & Web Scraping
-1/18: **No Class** (MLK Day) | 1/20: Advanced Model Evaluation <br>**Project First Draft Due**
-1/25: Decision Trees | 1/27: Ensembles and Random Forests
+1/4: [Logistic Regression](#class-7-logistic-regression) | 1/6: [Naive Bayes](#class-8-naive-bayes)
+1/11: [Clustering](#class-9-clustering) | 1/13: [APIs & Web Scraping](#class-10-apis--web-scraping)
+1/18: **No Class** (MLK Day) | 1/20: [Advanced Model Evaluation](#class-11-advanced-model-evaluation) <br>**Project First Draft Due**
+1/25: [Decision Trees](#class-12-decision-trees) | 1/27: [Ensembles and Random Forests](#class-13-ensembles-and-random-forests)
 2/1: [Support Vector Machines](#class-14-support-vector-machines) | 2/3: Dimensionality Reduction & PCA
 2/8: Recommender Systems | 2/10: Text Processing / NLP <br>**Project Second Draft Due (Optional)**
 2/15: **No Class** (President's Day) | 2/17: SQL, Databases
