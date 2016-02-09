@@ -13,7 +13,7 @@ class CraigslistSpider(scrapy.Spider):
         for sel in response.xpath("//div[@class='content']/span[@class='rows']/p"):
 
             item = CraigslistItem()
-            item['title'] =  sel.xpath("span/span/a[@class='hdrlnk']").extract()[0]
+            item['title'] =  sel.xpath("span/span/a[@class='hdrlnk']/text()").extract()[0]
             item['link']  =  sel.xpath("span/span/a[@class='hdrlnk']/@href").extract()[0]
             yield item
 

@@ -21,9 +21,19 @@ grep -i "steak" ../../data/chipotle.tsv > countsteak.csv
 # chicken by doing word count
 wc -l countchicken.csv
 wc -l countsteak.csv
+# chicken is more popular
 
 # Do chicken burritos more often have black beans or pinto beans?
+grep -i "black beans" countchicken.csv > countblack.csv
+grep -i "pinto beans" countchicken.csv > countpinto.csv
+
+wc -l countblack.csv
+wc -l countpinto.csv
 
 # Make a list of all of the CSV or TSV files in the DAT7 repo (using a #single command). Think about how wildcard characters can help you with # this task.
+ls ../../*/*.?sv
+
 #Count the number of occurrences of the word 'dictionary' (regardless of case) across all files in the DAT7 repo.
+grep -r "dictionary" ./../*/
+ 
 Optional: Use the the command line to discover something "interesting" about the Chipotle data. The advanced commands below may be helpful to you!
