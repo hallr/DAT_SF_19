@@ -42,8 +42,8 @@ Monday | Wednesday
 1/18: **No Class** (MLK Day) | 1/20: [Advanced Model Evaluation](#class-11-advanced-model-evaluation) <br>**Project First Draft Due**
 1/25: [Decision Trees](#class-12-decision-trees) | 1/27: [Ensembles and Random Forests](#class-13-ensembles-and-random-forests)
 2/1: [Support Vector Machines](#class-14-support-vector-machines) | 2/3: [Dimensionality Reduction & PCA](#class-15-dimensionality-reduction)
-2/8: Recommender Systems | 2/10: Text Processing / NLP <br>**Project Second Draft Due (Optional)**
-2/15: **No Class** (President's Day) | 2/17: SQL & Databases
+2/8: [Recommender Systems](#class-16-recommender-systems) | 2/10: Text Processing / NLP <br>**Peer Feedback on Project Drafts Due**
+2/15: **No Class** (President's Day) | 2/17: SQL & Databases <br>**Project Second Draft Due (Optional)**
 2/22: In-class Kaggle Competition or Advanced Topic | 2/24: Course Review & Where to Go from Here |
 2/29: **Project Presentations & Project Due** | 3/2: **Project Presentations & Project Due**
 
@@ -314,6 +314,12 @@ _syllabus last updated: 02/01/2016_
 -----
 
 ### Class 16: Recommender Systems
+
+Thanks to Dave Yerrington for leading this session!
+
+* Recommendation Engines ([slides](slides/16-recommendation_engines.pdf))
+* Lab: Similar Users Recommender Lab ([notebook](labs/16-Similar_Users_Recommender_Lab.ipynb))
+
 
 -----
 
