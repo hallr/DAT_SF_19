@@ -331,7 +331,7 @@ Thanks to Dave Yerrington for leading this session!
 
 -----
 
-### Class 19: In-class Kaggle Competition OR Advanced Topic OR Guest Speaker
+### Class 19: Advanced Topic or Guest Speaker
 
 **Additional Resources:**
 * Browse the excellent [solution paper](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ChenglongChen/Kaggle_CrowdFlower/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf) from the winner of Kaggle's [CrowdFlower competition](https://www.kaggle.com/c/crowdflower-search-relevance) for an example of the work and insight required to win a Kaggle competition.
