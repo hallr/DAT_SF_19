@@ -42,12 +42,12 @@ Monday | Wednesday
 1/18: **No Class** (MLK Day) | 1/20: [Advanced Model Evaluation](#class-11-advanced-model-evaluation) <br>**Project First Draft Due**
 1/25: [Decision Trees](#class-12-decision-trees) | 1/27: [Ensembles and Random Forests](#class-13-ensembles-and-random-forests)
 2/1: [Support Vector Machines](#class-14-support-vector-machines) | 2/3: [Dimensionality Reduction & PCA](#class-15-dimensionality-reduction)
-2/8: [Recommender Systems](#class-16-recommender-systems) | 2/10: Text Processing / NLP <br>**Peer Feedback on Project Drafts Due**
+2/8: [Recommender Systems](#class-16-recommender-systems) | 2/10: [Text Processing / NLP](#class-17-text-processing--nlp) <br>**Peer Feedback on Project Drafts Due**
 2/15: **No Class** (President's Day) | 2/17: SQL & Databases <br>**Project Second Draft Due (Optional)**
-2/22: In-class Kaggle Competition or Advanced Topic | 2/24: Course Review & Where to Go from Here |
+2/22: Advanced Topic or Guest Speaker | 2/24: Course Review & Where to Go from Here |
 2/29: **Project Presentations & Project Due** | 3/2: **Project Presentations & Project Due**
 
-_syllabus last updated: 02/01/2016_
+_syllabus last updated: 02/16/2016_
 
 
 
@@ -320,26 +320,76 @@ Thanks to Dave Yerrington for leading this session!
 * Recommendation Engines ([slides](slides/16-recommendation_engines.pdf))
 * Lab: Similar Users Recommender Lab ([notebook](labs/16-Similar_Users_Recommender_Lab.ipynb))
 
+**Additional Resources**
+* Chapter 9 of [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/bookL.pdf) (36 pages) is a more thorough introduction to recommendation systems.
+* Chapters 2 through 4 of [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) (165 pages) provides a friendlier introduction, with lots of Python code and exercises.
+* The Netflix Prize was the famous competition for improving Netflix's recommendation system by 10%. Here are some useful articles about the Netflix Prize:
+    * [Netflix Recommendations: Beyond the 5 stars](http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html): Two posts from the Netflix blog summarizing the competition and their recommendation system
+    * [Winning the Netflix Prize: A Summary](http://blog.echen.me/2011/10/24/winning-the-netflix-prize-a-summary/): Overview of the models and techniques that went into the winning solution
+    * [A Perspective on the Netflix Prize](http://www2.research.att.com/~volinsky/papers/chance.pdf): A summary of the competition by the winning team
+* This [paper](http://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf) summarizes how Amazon.com's recommendation system works, and this [Stack Overflow Q&A](http://stackoverflow.com/questions/2323768/how-does-the-amazon-recommendation-feature-work) has some additional thoughts.
+* [Facebook](https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/) and [Etsy](https://codeascraft.com/2014/11/17/personalized-recommendations-at-etsy/) have blog posts about how their recommendation systems work.
+* [The Global Network of Discovery](http://www.gnod.com/) provides some neat recommenders for music, authors, and movies.
+* [The People Inside Your Machine](http://www.npr.org/blogs/money/2015/01/30/382657657/episode-600-the-people-inside-your-machine) (23 minutes) is a Planet Money podcast episode about how Amazon Mechanical Turks can assist with recommendation engines (and machine learning in general).
+* Coursera has a [course](https://www.coursera.org/learn/recommender-systems) on recommendation systems, if you want to go even deeper into the material.
 
 -----
 
 ### Class 17: Text Processing & NLP
 
+* Text Processing ([slides](slides/17-text-processing.pdf))
+* Lab: Similar Users Recommender Lab ([notebook](labs/17-NLP_and_simple_sentiment.ipynb))
+
+**Additional Resources**
+* If you want to learn a lot more NLP, check out the excellent [video lectures](https://class.coursera.org/nlp/lecture) and [slides](http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) from this [Coursera course](https://www.coursera.org/course/nlp) (which is no longer being offered).
+* [Natural Language Processing with Python](http://www.nltk.org/book/) is the most popular book for going in-depth with the [Natural Language Toolkit](http://www.nltk.org/) (NLTK).
+* [A Smattering of NLP in Python](https://github.com/charlieg/A-Smattering-of-NLP-in-Python/blob/master/A%20Smattering%20of%20NLP%20in%20Python.ipynb) provides a nice overview of NLTK, as does this [notebook from DAT5](https://github.com/justmarkham/DAT5/blob/master/notebooks/14_nlp.ipynb).
+* [spaCy](http://spacy.io/) is a newer Python library for text processing that is focused on performance (unlike NLTK).
+* If you want to get serious about NLP, [Stanford CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) is a suite of tools (written in Java) that is highly regarded.
+* When working with a large text corpus in scikit-learn, [HashingVectorizer](http://scikit-learn.org/stable/modules/feature_extraction.html#vectorizing-a-large-text-corpus-with-the-hashing-trick) is a useful alternative to CountVectorizer.
+* [Automatically Categorizing Yelp Businesses](http://engineeringblog.yelp.com/2015/09/automatically-categorizing-yelp-businesses.html) discusses how Yelp uses NLP and scikit-learn to solve the problem of uncategorized businesses.
+* [Modern Methods for Sentiment Analysis](http://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis) shows how "word vectors" can be used for more accurate sentiment analysis.
+* [Identifying Humorous Cartoon Captions](http://www.cs.huji.ac.il/~dshahaf/pHumor.pdf) is a readable paper about identifying funny captions submitted to the New Yorker Caption Contest.
+
 -----
 
 ### Class 18: Databases & SQL
 
+* Database Technologies ([slides](slides/18-database-technologies.pdf))
+* Lab: SQL in Action ([notebook](labs/18-not-posted-yet.ipynb))
+
+**Additional Resources**
+* This [GA notebook](https://github.com/podopie/DAT18NYC/blob/master/classes/17-relational_databases.ipynb) provides a shorter introduction to databases and SQL that helpfully contrasts SQL queries with Pandas syntax.
+* [SQLZOO](http://sqlzoo.net/wiki/SQL_Tutorial), [Mode Analytics](http://sqlschool.modeanalytics.com/), [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql), [Codecademy](https://www.codecademy.com/courses/learn-sql), [Datamonkey](http://datamonkey.pro/guess_sql/lessons/), and [Code School](http://campus.codeschool.com/courses/try-sql/contents) all have online beginner SQL tutorials that look promising.
+* [What Every Data Scientist Needs to Know about SQL](http://joshualande.com/data-science-sql/) is a brief series of posts about SQL basics, and [Introduction to SQL for Data Scientists](http://bensresearch.com/downloads/SQL.pdf) is a paper with similar goals.
+* [10 Easy Steps to a Complete Understanding of SQL](https://web.archive.org/web/20150402234726/http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql) is a good article for those who have some SQL experience and want to understand it at a deeper level.
+* SQLite's article on [Query Planning](http://www.sqlite.org/queryplanner.html) explains how SQL queries "work".
+* [A Comparison Of Relational Database Management Systems](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems) gives the pros and cons of SQLite, MySQL, and PostgreSQL.
+* If you want to go deeper into databases and SQL, Stanford has a well-respected series of [14 mini-courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about).
+* [Blaze](http://blaze.pydata.org) is a Python package enabling you to use Pandas-like syntax to query data living in a variety of data storage systems.
+
 -----
 
-### Class 19: In-class Kaggle Competition OR Advanced Topic OR Guest Speaker
+### Class 19: Advanced Topic or Guest Speaker
 
-**Additional Resources:**
-* Browse the excellent [solution paper](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ChenglongChen/Kaggle_CrowdFlower/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf) from the winner of Kaggle's [CrowdFlower competition](https://www.kaggle.com/c/crowdflower-search-relevance) for an example of the work and insight required to win a Kaggle competition.
-* [Interpretable vs Powerful Predictive Models: Why We Need Them Both](https://medium.com/@chris_bour/interpretable-vs-powerful-predictive-models-why-we-need-them-both-990340074979) is a short post on how the tactics useful in a Kaggle competition are not always useful in the real world.
+
 
 -----
 
 ### Class 20: Course Review & Where to Go from Here
+
+####NOTE: The second part of this session will be a working session for course projects.
+
+**Resources:**
+* scikit-learn's [machine learning map](http://scikit-learn.org/stable/tutorial/machine_learning_map/) may help you to choose the "best" model for your task.
+* [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/) is a short and highly readable comparison of several classification models, [Classifier comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html) is scikit-learn's visualization of classifier decision boundaries, [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) is a model comparison table that I created, and [Supervised learning superstitions cheat sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html) is a more thorough comparison (with links to lots of useful resources).
+* [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong), [Machine Learning Gremlins](https://www.youtube.com/watch?v=tleeC-KlsKA) (31 minutes), [Clever Methods of Overfitting](http://hunch.net/?p=22), and [Common Pitfalls in Machine Learning](http://danielnee.com/?p=155) all offer thoughtful advice on how to avoid common mistakes in machine learning.
+* [Practical machine learning tricks from the KDD 2011 best industry paper](http://blog.david-andrzejewski.com/machine-learning/practical-machine-learning-tricks-from-the-kdd-2011-best-industry-paper/) and Andrew Ng's [Advice for applying machine learning](http://cs229.stanford.edu/materials/ML-advice.pdf) include slightly more advanced advice than the resources above.
+* [An Empirical Comparison of Supervised Learning Algorithms](http://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf) is a readable research paper from 2006, which was also presented as a [talk](http://videolectures.net/solomon_caruana_wslmw/) (77 minutes).
+
+**Kaggle Resources:**
+* Browse the excellent [solution paper](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ChenglongChen/Kaggle_CrowdFlower/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf) from the winner of Kaggle's [CrowdFlower competition](https://www.kaggle.com/c/crowdflower-search-relevance) for an example of the work and insight required to win a Kaggle competition.
+* [Interpretable vs Powerful Predictive Models: Why We Need Them Both](https://medium.com/@chris_bour/interpretable-vs-powerful-predictive-models-why-we-need-them-both-990340074979) is a short post on how the tactics useful in a Kaggle competition are not always useful in the real world.
 
 -----
 
