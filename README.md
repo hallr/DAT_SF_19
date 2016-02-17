@@ -320,6 +320,7 @@ Thanks to Dave Yerrington for leading this session!
 * Recommendation Engines ([slides](slides/16-recommendation_engines.pdf))
 * Lab: Similar Users Recommender Lab ([notebook](labs/16-Similar_Users_Recommender_Lab.ipynb))
 
+**Additional Resources**
 * Chapter 9 of [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/bookL.pdf) (36 pages) is a more thorough introduction to recommendation systems.
 * Chapters 2 through 4 of [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) (165 pages) provides a friendlier introduction, with lots of Python code and exercises.
 * The Netflix Prize was the famous competition for improving Netflix's recommendation system by 10%. Here are some useful articles about the Netflix Prize:
