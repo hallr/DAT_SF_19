@@ -43,7 +43,7 @@ Monday | Wednesday
 1/25: [Decision Trees](#class-12-decision-trees) | 1/27: [Ensembles and Random Forests](#class-13-ensembles-and-random-forests)
 2/1: [Support Vector Machines](#class-14-support-vector-machines) | 2/3: [Dimensionality Reduction & PCA](#class-15-dimensionality-reduction)
 2/8: [Recommender Systems](#class-16-recommender-systems) | 2/10: [Text Processing / NLP](#class-17-text-processing--nlp) <br>**Peer Feedback on Project Drafts Due**
-2/15: **No Class** (President's Day) | 2/17: SQL & Databases <br>**Project Second Draft Due (Optional)**
+2/15: **No Class** (President's Day) | 2/17: [Database Technologies]() <br>**Project Second Draft Due (Optional)**
 2/22: Advanced Topic or Guest Speaker | 2/24: Course Review & Where to Go from Here |
 2/29: **Project Presentations & Project Due** | 3/2: **Project Presentations & Project Due**
 
@@ -353,10 +353,10 @@ Thanks to Dave Yerrington for leading this session!
 
 -----
 
-### Class 18: Databases & SQL
+### Class 18: Database Technologies & SQL
 
 * Database Technologies ([slides](slides/18-database-technologies.pdf))
-* Lab: SQL in Action ([notebook](labs/18-not-posted-yet.ipynb))
+* Lab: SQL in Action ([notebook](labs/18-SQL%20and%20Liquor.ipynb))
 
 **Additional Resources**
 * This [GA notebook](https://github.com/podopie/DAT18NYC/blob/master/classes/17-relational_databases.ipynb) provides a shorter introduction to databases and SQL that helpfully contrasts SQL queries with Pandas syntax.
