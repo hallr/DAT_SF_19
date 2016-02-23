@@ -370,7 +370,7 @@ Thanks to Dave Yerrington for leading this session!
 
 -----
 
-### Class 19: Pursuing Data Science Roles & Advanced Topic
+### Class 19: Pursuing Data Science Roles & Imbalanced Classes
 
 * Pursuing data science roles, Rocking data science interviews, and related Q&A - Dave Yerrington
 * Advanced Topic: Imbalanced Classes
