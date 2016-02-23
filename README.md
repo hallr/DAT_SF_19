@@ -118,7 +118,7 @@ _syllabus last updated: 02/16/2016_
 ### Class 4: Intro to Machine Learning & Classification with KNN
 
 * Intro to Machine Learning ([slides](slides/04_intro_ml_knn.pdf))
-* Lab: KNN classification with Scikit-learn ([notebook](labs/05_knn_sklearn.ipynb))
+* Lab: KNN classification with Scikit-learn ([notebook](labs/04_knn_sklearn.ipynb))
 
 **ML Resources**:
 * For a more formal, in-depth introduction to machine learning, read section 2.1 (14 pages) of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
@@ -370,9 +370,11 @@ Thanks to Dave Yerrington for leading this session!
 
 -----
 
-### Class 19: Advanced Topic or Guest Speaker
+### Class 19: Pursuing Data Science Roles & Advanced Topic
 
-
+* Pursuing data science roles, Rocking data science interviews, and related Q&A - Dave Yerrington
+* Advanced Topic: Imbalanced Classes
+* Lab: Homework 4 solution walkthrough and Q&A
 
 -----
 
