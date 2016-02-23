@@ -376,6 +376,12 @@ Thanks to Dave Yerrington for leading this session!
 * Advanced Topic: Imbalanced Classes ([slides](slides/19-imbalanced-classes.pdf))
 * Lab: Homework 4 solution walkthrough and Q&A
 
+**Additional Resources**
+* [This post by Jason Brownlee](http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/) provides an easy-to-understand overview of options for handling imbalanced classes.
+* [This answer on Quora](https://www.quora.com/In-classification-how-do-you-handle-an-unbalanced-training-set) goes into more detail.
+* If you want to go really deep, read this extensive academic paper, [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf).
+* Paper on using [Random Forests with Imbalanced Data](http://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf).
+
 -----
 
 ### Class 20: Course Review & Where to Go from Here
